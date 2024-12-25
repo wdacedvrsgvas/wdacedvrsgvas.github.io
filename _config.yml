@@ -160,7 +160,6 @@ footer:
       # url:
 
 # Reading Files
-include: ["_pages"]
 include:
   - .htaccess
   - _pages
@@ -222,7 +221,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Shanghai" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination with jekyll-paginate
 #paginate: 5 # amount of posts to show
