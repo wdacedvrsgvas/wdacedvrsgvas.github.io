@@ -20,31 +20,31 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "应用层"
+    url: /docs/1/
+  - title: "系统底层"
+    url: /docs/2/
+  - title: "抗摄屏取证"
+    url: /docs/3/
+  - title: "代审"
+    url: /docs/4/
   - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+    url: https://mmistakes.github.io/minimal-mistakes/about/
 
 
 # documentation links
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "应用层"
+        url: /docs/1/2017-11-28-post-exclude-search.md
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-  - title: Customization
+  - title: "系统底层"
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -58,7 +58,7 @@ docs:
         url: /docs/authors/
       - title: "Layouts"
         url: /docs/layouts/
-  - title: Content
+  - title: "抗摄屏取证"
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -70,13 +70,13 @@ docs:
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/
-  - title: Extras
+  - title: "代审"
     children:
       - title: "Stylesheets"
         url: /docs/stylesheets/
       - title: "JavaScript"
         url: /docs/javascript/
-  - title: Meta
+  - title: "About"
     children:
       - title: "FAQ"
         url: /docs/faq/
