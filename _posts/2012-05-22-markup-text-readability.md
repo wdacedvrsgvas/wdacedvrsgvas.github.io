@@ -2,7 +2,7 @@
 title: "Markup: Text Readability Test"
 excerpt: "A bunch of text to test readability."
 tags: 
-  - sample post
+  - yyc
   - readability
   - test
 ---

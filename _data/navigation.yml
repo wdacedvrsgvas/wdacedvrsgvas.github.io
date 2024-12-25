@@ -21,7 +21,7 @@ foo:
 # main links
 main:
   - title: "应用层"
-    url: /_posts/
+    url: /yyc/
   - title: "系统底层"
     url: /_posts/
   - title: "抗摄屏取证"
